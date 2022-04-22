@@ -12,4 +12,4 @@ Also, feel free to contribute to this project as I'm also looking forward to see
 This was made with Python, tkinter gui library, pillow library, and with sqlite3 database.
 
 This newbie project was made by a learning programmer who's only been learning for a month, just so you know. C:
-And I thank you, for reading this long boring README file.
+And I thank you, for reading this boring README file.
